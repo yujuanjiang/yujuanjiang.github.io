@@ -3,9 +3,9 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "About"
-     url: https://mmistakes.github.io/yujuanjiang/_pages/about/
+     url: https://yujuanjiang.github.io/_pages/about.md
    - title: "Publications"
-     url: https://mmistakes.github.io/yujuanjiang/_pages/publications/
+     url: https://mmistakes.github.io/_pages/publications.md
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
