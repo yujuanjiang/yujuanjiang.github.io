@@ -110,7 +110,7 @@ author:
   avatar           : "/assets/images/IMG_500.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Just an ordinary one."
   location         : "Montreal, QC"
-  email            : "yj dot jiang16 at gmail dot com"
+  #email            : "yj dot jiang16 at gmail dot com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
