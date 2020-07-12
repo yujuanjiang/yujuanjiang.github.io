@@ -115,9 +115,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:yj.jiang16@gmail.com
-    - label: "Website"
+    - label: "Old website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://yujuanjiang.blog/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -126,10 +126,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yujuan.jiang"
+      url: "https://github.com/yujuanjiang"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/ceciliadiary"
+      url: "https://instagram.com/ceciliadiary"
 
 # Site Footer
 footer:
