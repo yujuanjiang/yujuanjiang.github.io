@@ -1,11 +1,16 @@
 # main links
 main:
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "About"
+   - title: "ABOUT"
      url: https://yujuanjiang.github.io/yujuanjiang/_pages/about.md
-   - title: "Publications"
+   - title: "PUBLICATIONS & AWARDS"
      url: https://yujuanjiang.github.io/yujuanjiang/_pages/publications.md
+   - title: "ACTIVITIES"
+     url: https://yujuanjiang.github.io/yujuanjiang/_pages/activities.md
+   - title: "PROJECTS"
+     url: https://yujuanjiang.github.io/yujuanjiang/_pages/projects.md
+   - title: "BLOGS"
+     url: https://yujuanjiang.github.io/yujuanjiang/_pages/blogs.md
+   
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

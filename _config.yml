@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Yujuan JIANG"
   avatar           : "/assets/images/IMG_0642.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Just an ordinary one."
+  bio              : "Everything about data."
   location         : "Montreal, QC"
   #email            : "yj dot jiang16 at gmail dot com"
   links:
