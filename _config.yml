@@ -106,15 +106,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yujuan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Yujuan JIANG"
+  avatar           : "/assets/images/IMG_500.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Just an ordinary one."
   location         : "Montreal, QC"
-  email            :
+  email            : "yj dot jiang16 at gmail dot com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:yj.jiang16@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
