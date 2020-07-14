@@ -3,15 +3,15 @@ main:
    - title: "ABOUT"
      url: /_pages/about.md
    - title: "PUBLICATIONS & AWARDS"
-     url: https://yujuanjiang.github.io/yujuanjiang/_pages/publications.md
+     url: /_pages/publications.md
    - title: "ACTIVITIES"
-     url: https://yujuanjiang.github.io/yujuanjiang/_pages/activities.md
+     url: /_pages/activities.md
    - title: "PROJECTS"
-     url: https://yujuanjiang.github.io/yujuanjiang/_pages/projects.md
+     url: /_pages/projects.md
    - title: "CERTIFICATE"
-     url: https://yujuanjiang.github.io/yujuanjiang/_pages/certificate.md
+     url: /_pages/certificate.md
    - title: "BLOGS"
-     url: https://yujuanjiang.github.io/yujuanjiang/_pages/blogs.md
+     url: /_pages/blogs.md
    
   # - title: "Sample Collections"
   #   url: /collection-archive/
