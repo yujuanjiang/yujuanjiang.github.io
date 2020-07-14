@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hello World!"
+title                    : #"Hello World!"
 title_separator          : "-"
 name                     : "Yujuan JIANG"
 description              : "An amazing website."
