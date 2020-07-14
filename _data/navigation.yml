@@ -1,7 +1,7 @@
 # main links
 main:
    - title: "ABOUT"
-     url: https://yujuanjiang.github.io/yujuanjiang/_pages/about.md
+     url: /_pages/about.md
    - title: "PUBLICATIONS & AWARDS"
      url: https://yujuanjiang.github.io/yujuanjiang/_pages/publications.md
    - title: "ACTIVITIES"
