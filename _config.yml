@@ -158,7 +158,6 @@ footer:
 include:
   - .htaccess
   - _pages
-  - /_pages/about.md
 
 exclude:
   - "*.sublime-project"
