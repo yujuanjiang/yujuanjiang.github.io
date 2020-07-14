@@ -4,8 +4,6 @@ main:
      url: /_pages/about.md
    - title: "PUBLICATIONS & AWARDS"
      url: /_pages/publications.md
-   - title: "ACTIVITIES"
-     url: /_pages/activities.md
    - title: "PROJECTS"
      url: /_pages/projects.md
    - title: "CERTIFICATE"
