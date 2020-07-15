@@ -1,4 +1,11 @@
-PUCLICATION LIST:
+---
+permalink: /publilcation/
+title: "Publication & Award List"
+last_modified_at: 2020-07-15T09:26:22-04:00
+toc: false
+---
+
+###PUCLICATION LIST:
 
 TOURANI, P., JIANG, Y. and ADAMS, B. (2014). Monitoring Sentiment in Open Source Mailing Lists – Exploratory Study on the Apache Ecosystem, in Proceedings of the 2014 Conference of the Center for Advanced Studies on Collaborative Research, CASCON (Markham, ON, Canada), pages 34-44. (Acceptance ratio: 19/56=33.9%) BibTeX
 
