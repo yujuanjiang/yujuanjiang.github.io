@@ -7,7 +7,7 @@ main:
    - title: "PROJECTS"
      url: /_pages/projects.md
    - title: "CERTIFICATE"
-     url: /_pages/certificate.md
+     url: /certificate/
    - title: "BLOGS"
      url: /_pages/blogs.md
    
