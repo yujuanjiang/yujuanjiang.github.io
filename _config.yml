@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Yujuan JIANG"
-  avatar           : "/assets/images/IMG_0642.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/IMG_8582.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Everything about data."
   location         : "Montreal, QC"
   #email            : "yj dot jiang16 at gmail dot com"
