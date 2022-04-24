@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Techfeed</title>
+    <link>https://demo.gethugothemes.com/techfeed/examplesite/categories/development/</link>
+    <description>Recent content in Development on Techfeed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jul 2021 15:40:55 +0600</lastBuildDate><atom:link href="https://demo.gethugothemes.com/techfeed/examplesite/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What else do we need to make this a success?</title>
+      <link>https://demo.gethugothemes.com/techfeed/examplesite/blog/post4/</link>
+      <pubDate>Thu, 15 Jul 2021 15:40:55 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/examplesite/blog/post4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+    </item>
+    
+    <item>
+      <title>MEMORIES FROM LAST SUMMER</title>
+      <link>https://demo.gethugothemes.com/techfeed/examplesite/blog/post1/</link>
+      <pubDate>Thu, 15 Jul 2021 11:06:48 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/examplesite/blog/post1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+    </item>
+    
+    <item>
+      <title>FINDING LOVE AND ROMANCE ON THE ROAD</title>
+      <link>https://demo.gethugothemes.com/techfeed/examplesite/blog/post3/</link>
+      <pubDate>Wed, 14 Jul 2021 15:06:48 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/examplesite/blog/post3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+    </item>
+    
+  </channel>
+</rss>

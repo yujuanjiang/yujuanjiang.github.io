@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Techfeed</title>
+    <link>https://demo.gethugothemes.com/techfeed/examplesite/categories/</link>
+    <description>Recent content in Categories on Techfeed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jul 2021 15:41:07 +0600</lastBuildDate><atom:link href="https://demo.gethugothemes.com/techfeed/examplesite/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fashion</title>
+      <link>https://demo.gethugothemes.com/techfeed/examplesite/categories/fashion/</link>
+      <pubDate>Thu, 15 Jul 2021 15:41:07 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/examplesite/categories/fashion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://demo.gethugothemes.com/techfeed/examplesite/categories/development/</link>
+      <pubDate>Thu, 15 Jul 2021 15:40:55 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/examplesite/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arts &amp; Culture</title>
+      <link>https://demo.gethugothemes.com/techfeed/examplesite/categories/arts-culture/</link>
+      <pubDate>Wed, 14 Jul 2021 15:06:41 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/examplesite/categories/arts-culture/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

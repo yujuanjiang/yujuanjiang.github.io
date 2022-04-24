@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fashion on Techfeed</title>
+    <link>https://demo.gethugothemes.com/techfeed/examplesite/categories/fashion/</link>
+    <description>Recent content in Fashion on Techfeed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jul 2021 15:41:07 +0600</lastBuildDate><atom:link href="https://demo.gethugothemes.com/techfeed/examplesite/categories/fashion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What else do we need to make this a success?</title>
+      <link>https://demo.gethugothemes.com/techfeed/examplesite/blog/post6/</link>
+      <pubDate>Thu, 15 Jul 2021 15:41:07 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/examplesite/blog/post6/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+    </item>
+    
+    <item>
+      <title>What else do we need to make this a success?</title>
+      <link>https://demo.gethugothemes.com/techfeed/examplesite/blog/post5/</link>
+      <pubDate>Thu, 15 Jul 2021 15:41:01 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/examplesite/blog/post5/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+    </item>
+    
+  </channel>
+</rss>
