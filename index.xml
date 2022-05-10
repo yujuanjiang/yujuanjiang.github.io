@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Techfeed</title>
+    <title>Yujuan&#39;s personal website</title>
     <link>https://yujuanjiang.github.io/</link>
-    <description>Recent content on Techfeed</description>
+    <description>Recent content on Yujuan&#39;s personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Jul 2021 15:41:07 +0600</lastBuildDate><atom:link href="https://yujuanjiang.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -71,12 +71,14 @@
     </item>
     
     <item>
-      <title>I am Emma, A content writer based in LDN, currently at Bookworm.</title>
+      <title>I am Yujuan</title>
       <link>https://yujuanjiang.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yujuanjiang.github.io/about/</guid>
-      <description>A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.</description>
+      <description>Hey hey, this is Yujuan! Thanks for checking out my personal website. 🙂
+I&amp;rsquo;m currently a software engineer @Tripadvisor based in Montreal, Quebec, Canada.
+This blog is where I share mainly my professional life, and also some random stuff in life time to time.</description>
     </item>
     
   </channel>
