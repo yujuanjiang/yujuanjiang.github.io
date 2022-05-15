@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Jul 2021 15:41:07 +0600</lastBuildDate><atom:link href="https://yujuanjiang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Activities</title>
+      <link>https://yujuanjiang.github.io/activities/</link>
+      <pubDate>Sat, 14 May 2022 21:37:45 -0400</pubDate>
+      
+      <guid>https://yujuanjiang.github.io/activities/</guid>
+      <description>Conference PC Member:
+MSR 2016 Challenge Track Paper Co-review:
+CSER, November 2013 CASCON conference, November 2013 MSR conference, May 2013 RELENG workshop, May 2013 CSER, June 2013 CSER, November 2012 CASCON conference, November 2012 WCRE conference, October 2012 Volunteer Work:</description>
+    </item>
+    
+    <item>
       <title>What else do we need to make this a success?</title>
       <link>https://yujuanjiang.github.io/blog/post6/</link>
       <pubDate>Thu, 15 Jul 2021 15:41:07 +0600</pubDate>
@@ -79,6 +90,15 @@
       <description>Hey hey, this is Yujuan! Thanks for checking out my personal website. 🙂
 I&amp;rsquo;m currently a software engineer @Tripadvisor based in Montreal, Quebec, Canada.
 This blog is where I share mainly my professional life, and also some random stuff in life time to time.</description>
+    </item>
+    
+    <item>
+      <title>PUBLICATIONS</title>
+      <link>https://yujuanjiang.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujuanjiang.github.io/publications/</guid>
+      <description>JIANG, Y. and ADAMS, B. (2015). Co-evolution of infrastructure and Source Code – An Empirical Study, in Proceedings of the 12th Working Conference on Mining Software Repositories, MSR (Florence, Italy), to appear.</description>
     </item>
     
   </channel>
