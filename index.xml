@@ -6,7 +6,16 @@
     <description>Recent content on Yujuan&#39;s personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jul 2021 15:41:07 +0600</lastBuildDate><atom:link href="https://yujuanjiang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 May 2022 13:07:12 -0400</lastBuildDate><atom:link href="https://yujuanjiang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Create Hugo Contact Form with Google Forms (FREE!)</title>
+      <link>https://yujuanjiang.github.io/blog/how_to_create_hugo_contact_form_with_google_forms/</link>
+      <pubDate>Mon, 23 May 2022 13:07:12 -0400</pubDate>
+      
+      <guid>https://yujuanjiang.github.io/blog/how_to_create_hugo_contact_form_with_google_forms/</guid>
+      <description>Pre-requisite:   A google account  A website created off Hugo template   First, create a contact form with Google form, and get the field name for each required field of the form by inspecting webpage elements (usually they start with &amp;ldquo;entry:&amp;quot;).</description>
+    </item>
+    
     <item>
       <title>Thank you!</title>
       <link>https://yujuanjiang.github.io/thankyou/</link>
@@ -34,33 +43,6 @@
       <description>Conference PC Member:
   MSR 2016 Challenge Track   Paper Co-review:
   CSER, November 2013 CASCON conference, November 2013 MSR conference, May 2013 RELENG workshop, May 2013 CSER, June 2013 CSER, November 2012 CASCON conference, November 2012 WCRE conference, October 2012   Volunteer Work:</description>
-    </item>
-    
-    <item>
-      <title>What else do we need to make this a success?</title>
-      <link>https://yujuanjiang.github.io/blog/post6/</link>
-      <pubDate>Thu, 15 Jul 2021 15:41:07 +0600</pubDate>
-      
-      <guid>https://yujuanjiang.github.io/blog/post6/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    
-    <item>
-      <title>What else do we need to make this a success?</title>
-      <link>https://yujuanjiang.github.io/blog/post5/</link>
-      <pubDate>Thu, 15 Jul 2021 15:41:01 +0600</pubDate>
-      
-      <guid>https://yujuanjiang.github.io/blog/post5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    
-    <item>
-      <title>What else do we need to make this a success?</title>
-      <link>https://yujuanjiang.github.io/blog/post4/</link>
-      <pubDate>Thu, 15 Jul 2021 15:40:55 +0600</pubDate>
-      
-      <guid>https://yujuanjiang.github.io/blog/post4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
     
     <item>

@@ -5,7 +5,7 @@
 
 <head>
   <meta charset="utf-8">
-<title>Get In Touch</title>
+<title>How to Create Hugo Contact Form with Google Forms (FREE!)</title>
 
 
 
@@ -47,19 +47,19 @@
     <meta property="og:image:width" content="280">
     <meta property="og:image:height" content="188">
     <meta property="og:image:type" content="image/png">
-<meta name="twitter:title" content="Get In Touch"/>
-<meta name="twitter:description" content=""/>
-<meta property="og:title" content="Get In Touch" />
-<meta property="og:description" content="" />
+<meta name="twitter:title" content="How to Create Hugo Contact Form with Google Forms (FREE!)"/>
+<meta name="twitter:description" content="Pre-requisite:   A google account  A website created off Hugo template   First, create a contact form with Google form, and get the field name for each required field of the form by inspecting webpage elements (usually they start with &ldquo;entry:&quot;)."/>
+<meta property="og:title" content="How to Create Hugo Contact Form with Google Forms (FREE!)" />
+<meta property="og:description" content="Pre-requisite:   A google account  A website created off Hugo template   First, create a contact form with Google form, and get the field name for each required field of the form by inspecting webpage elements (usually they start with &ldquo;entry:&quot;)." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://yujuanjiang.github.io/contact/" /><meta property="article:section" content="" />
-
-
+<meta property="og:url" content="https://yujuanjiang.github.io/blog/how_to_create_hugo_contact_form_with_google_forms/" /><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2022-05-23T13:07:12-04:00" />
+<meta property="article:modified_time" content="2022-05-23T13:07:12-04:00" />
 
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Get In Touch"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:title" content="How to Create Hugo Contact Form with Google Forms (FREE!)"/>
+<meta name="twitter:description" content="Pre-requisite:   A google account  A website created off Hugo template   First, create a contact form with Google form, and get the field name for each required field of the form by inspecting webpage elements (usually they start with &ldquo;entry:&quot;)."/>
 
 
 
@@ -211,43 +211,104 @@
 
   <main>
     
-<section class="section">
+
   <div class="container">
-    <div class="row">
-      <div class="col-md-10 mx-auto">
-        <div class="text-center">
-          <h1 class="mb-4">Get In Touch</h1>
-          <script type="text/javascript">var submitted=false;</script>
-          <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
-          onload="if(submitted) {window.location='/thankyou';}"></iframe>
-
+    <div class="row no-gutters justify-content-center">
+      <div class="text-center mb-5">
+      
+      </div>
+      <div class="col-lg-9 mt-5">
+        <h3>How to Create Hugo Contact Form with Google Forms (FREE!)</h3>
+        <div class="text-center mb-5">
+        </div>
+        <div class="content"><h5> Pre-requisite: </h5>
+<ul>
+<li>A google account </li>
+<li>A website created off Hugo template </li>
+</ul>
+<br>
+<p>First, create a contact form with <a href="https://docs.google.com/forms">Google form</a>, and get the field name for each required field of the form by inspecting webpage elements (usually they start with <em>&ldquo;entry:&quot;</em>).</p>
+<p><img src="/how_to_create_hugo_contact_form_with_google_forms/googleForm.png" alt="Google form example"></p>
+<p>Get the google form id: <br><br>
+Click the &ldquo;Send&rdquo; button on top right, and select  to get the Google form id from its pre-filled link (the 56 digit letter &amp; number string between <em>&ldquo;d/e/&quot;</em> and <em>&quot;/viewForm&rdquo;</em>).</p>
+<p><img src="/how_to_create_hugo_contact_form_with_google_forms/getlink.png" alt="Get google form id"></p>
+<p>N.B.: It&rsquo;s recommended to turn on email notification so Google can notify you once a new contact request is submitted. <br>
+Also, it&rsquo;d be better toggle off <em>&ldquo;Collect email address&rdquo;</em> (otherwise the field name is not populated - no idea why) and <em>&ldquo;Limit to 1 response&rdquo;</em> for the visitor&rsquo;s convenience.</p>
+<p><img src="/how_to_create_hugo_contact_form_with_google_forms/emailnotif.png" alt="Turn on email notification"></p>
+<p><img src="/how_to_create_hugo_contact_form_with_google_forms/toggles.png" alt="Toggle off"></p>
+<p>Next, let&rsquo;s create a contact form on your Hugo website. <br><br>
+This can be done however you like - it&rsquo;s simple html + css, but this form has to be consisted of the same fields as your google form! <br><br></p>
+<p>(You can even copy directly the google form source code, but it&rsquo;s preferably to keep the consistent style with the whole Hugo theme.) <br><br>
+For example, if your google form contains 4 fields - name/email/subject/message, your Hugo contact form should have the same 4 fields.</p>
+<p>A simple example would be like:</p>
+<blockquote>
+<blockquote>
+</blockquote>
+</blockquote>
+<pre><code>&lt;form action=&quot;https://docs.google.com/forms/d/e/&lt;YOUR FORM ID&gt;/formResponse&quot; method=&quot;post&quot; target=&quot;hidden_iframe&quot; onsubmit=&quot;submitted=true&quot;&gt;
+&lt;label&gt;Name&lt;/label&gt;&lt;input type=&quot;text&quot; placeholder=&quot;Name*&quot; class=&quot;form-input&quot; name=&quot;&lt;GOOGLE FORM FIELD ID1&gt;&quot; required&gt;
+&lt;label&gt;Email*&lt;/label&gt;
+    &lt;input type=&quot;email&quot; placeholder=&quot;Email address*&quot; class=&quot;form-input&quot; name=&quot;&lt;GOOGLE FORM FIELD ID2&gt;&quot; required&gt;
+&lt;label&gt;Subject*&lt;/label&gt;
+    &lt;input type=&quot;text&quot; placeholder=&quot;Subject*&quot; class=&quot;form-input&quot; name=&quot;&lt;GOOGLE FORM FIELD ID3&gt;&quot; required&gt;
+&lt;label&gt;Type your message here...&lt;/label&gt;
+    &lt;textarea rows=&quot;5&quot; placeholder=&quot;Message&quot; class=&quot;form-input&quot; name=&quot;&lt;GOOGLE FORM FIELD ID4&gt;&quot; &gt;&lt;/textarea&gt;
+&lt;button type=&quot;submit&quot;&gt;Send&lt;/button&gt;
+&lt;/form&gt;
+</code></pre>
+<br>
+Now let's apply google form field ids to your Hugo contact form! <br><br>
+You can assign the ids into form html code directly, or create corresponding parameters in file <em>""/config/_default/params.toml"</em> and refer to them in your html code. <br>
+<p><img src="/how_to_create_hugo_contact_form_with_google_forms/idMapping.png" alt="Assign google form ids to your Hugo contact form"></p>
+<p>Then we can submit the form to Google by changing its form &ldquo;action&rdquo; to Google form. <br></p>
+<p>This way, Google will assume the post request came from the google form your created earlier and will handle the response for us (free work lol).</p>
+<blockquote>
+<blockquote>
+</blockquote>
+</blockquote>
+<pre><code>&lt;form action=&quot;https://docs.google.com/forms/d/e/&lt;YOUR GOOGLE FORM ID&gt;/formResponse&quot; method=&quot;post&quot; target=&quot;hidden_iframe&quot; onsubmit=&quot;submitted=true;&quot;&gt;
+</code></pre>
+<br>
+<p>It&rsquo;s pretty much finished now, but in order to have a better user experience it&rsquo;s recommended to create a &ldquo;Thank you&rdquo; page inside your Hugo website. <br>
+Otherwise after your visitor submitted the form she/he will be redirected to Google&rsquo;s defautl &ldquo;Thank you&rdquo; page. <br></p>
+<p>Simple createa page using command &ldquo;Hugo new thankyou.md&rdquo;. <br>
+Inside the thankyou.md file put however you want to greet to your visitors like <em>&ldquo;Thank you! I will get back to you asap.&rdquo;. </em> <br><br>
+You simply need to add below code right before your form tag:</p>
+<blockquote>
+<blockquote>
+</blockquote>
+</blockquote>
+<pre><code>&lt;iframe name=&quot;hidden_iframe&quot; id=&quot;hidden_iframe&quot; style=&quot;display:none;&quot; onload=&quot;if(submitted) {window.location='/thankyou';}&quot;&gt;&lt;/iframe&gt;
+</code></pre>
+<p><br><br>
+&hellip; and update &ldquo;form target&rdquo; to this &ldquo;hidden_iframe&rdquo;:</p>
+<blockquote>
+<blockquote>
+</blockquote>
+</blockquote>
+<pre><code>&lt;form action=&quot;https://docs.google.com/forms/d/e/&lt;YOUR GOOGLE FORM ID&gt;/formResponse&quot; method=&quot;post&quot; target=&quot;hidden_iframe&quot; onsubmit=&quot;submitted=true;&quot;&gt;
+</code></pre>
+<p><br><br>
+VOILA! Once the visitor submit a contact form she/he will see below page:</p>
+<p><img src="/how_to_create_hugo_contact_form_with_google_forms/thankyou.png" alt="Thank you page"></p>
+<p>N.B.: this static form does <em>NOT</em> validate the data. <br>
+So if the email format is not correct (&rdquo;***@***.**&quot;) the contact page will still return &ldquo;Thank you!&rdquo; but Google will <em><strong>NOT</strong></em> be able to capture this response. <br>
+You can add some extra validation logic with JavaScript to prevent such issue. <br></p>
+<br>
+<p>OK. <br><br>
+Now if someone wants to contact you and input all the required information, you will receive an email notification from Google. Also, you can check all responses received on Google form &ldquo;Response&rdquo; tab:</p>
+<p><img src="/how_to_create_hugo_contact_form_with_google_forms/responsetab.png" alt="Google response tab"></p>
+<p><br><br>
+Enjoy blogging! :)</p>
+</div>
+        <div class="single-post-meta">
           
-
-          <form action="https://docs.google.com/forms/d/e/1FAIpQLSctaRjzEzAuTugQiCvUlFhjrKxaInTFlE39hBciqIam50Cx0w/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
-            <div class="row g-4">
-              <div class="col-md-6 mb-3">
-                <input type="text" class="form-control" placeholder="Name" aria-label="Name" name="entry.2005620554">
-              </div>
-              <div class="col-md-6 mb-3">
-                <input type="text" class="form-control" placeholder="Email" aria-label="Email" name="entry.1045781291">
-              </div>
-              <div class="col-12 mb-3">
-                <input type="text" class="form-control" placeholder="Subject" aria-label="Subject" name="entry.1166974658">
-              </div>
-
-              <div class="col-12 mb-3">
-                <textarea style="height: 200px;" class="form-control" placeholder="Type your message..." id="floatingTextarea" name="entry.839337160"></textarea>
-              </div>
-              <div class="col-12 mb-3">
-                <button type="submit" class="btn btn-primary">Submit</button>
-              </div>
-            </div>
-          </form>
         </div>
       </div>
+
     </div>
   </div>
-</section>
+
 
   </main>
 
